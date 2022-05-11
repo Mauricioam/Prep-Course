@@ -1,0 +1,11 @@
+Conceptos Desarrollados 
+
+Variables : son cajas donde tener reservado ese espacio para guardar lo que quieras.
+
+Strings: son caracteres que unidos que forman una cadena de texto y van entre comillas.
+
+Funciones : son bloques de codigo que contienen instrucciones  para realizar una tarea especifica.
+*argumentos : son datos necesarios para realizar una tarea indicada, que estan dentro de la funcion.
+*return instruccion para que devuelva  el valor de tarea .
+* if : es una condicion para evualuar una desicion.
+* true false : dato booleano para determinar verdadero o falso.
