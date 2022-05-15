@@ -1,0 +1,12 @@
+conceptos 
+
+for: bloque de codigo que se ejecuta segun la condicion que declaramos, cuando se cumple esa condicion
+se detiene la ejecuccion.
+
+&& AND : comparacion entre dos valores que segun la tabla de verdad , los dos valores comparados deben ser true
+para que se ejecute la sentencia asociada.
+
+|| OR : comparacion entre dos valores que segun tabla de verdad , solo uno de los valores debe ser true para que 
+se ejecute la sentencia asociada.
+
+! NOT : todo lo que va despues de ! se define como lo opuesto o no ese valor.
