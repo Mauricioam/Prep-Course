@@ -1,0 +1,15 @@
+Objetos = conjunto de propiedades que a su vez pueden tener asignado valores para definir el contenido.
+Los objetos a diferencia de los array , tienen muchos datos solo definen ese objeto.
+
+Propiedades: son las caracteristicas que definen al objeto. Cada objeto puede tener las mismas propiedades pero los valores
+son los que los diferencian entre si.
+
+Metodos: se considera a las funciones que estan definidas como una propiedad del objeto.
+
+Bucle for in : metodo para iterar entre las propiedades de un objeto, tiene el mismo concepto que el for utilizado para 
+los arrays.
+
+Notacion de punto:  se utiliza para acceder al valor de una propiedad de un objeto o asignar valores sin caracteres especiales. Deber ser literal al nombre de la propiedad.
+
+Notacion de corchete: se utiliza para acceder a valores donde la propiedad tenga un nombre con caracteres especiales. Tambien permite,
+ingresar en propiedades anidadas de un objeto con varios objetos dentro.
