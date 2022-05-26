@@ -1,0 +1,8 @@
+Prototype: Todos los objetos tienen una referencia que es el prototipo madre digamos, donde estan definidas las propiedades
+ madre del objeto. Cuando queramos recorrer esas propiedades luego de definir varios objetos , el programa busca dentro
+ del objeto esa propiedad, en caso de no encontrarla buscara en el prototipo de ese objeto. De no encontrar resultara en error.
+ Siempre los prototipos sirven mas para compartir funciones , para evitar repetir funciones en la escritura ya que
+ ocupan mucha memoria.
+
+Constructor(class): Es un metodo para crear objetos mediante la palabra clave class y luego constructor donde se define
+las propiedades de ese objeto.
